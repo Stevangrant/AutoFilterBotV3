@@ -39,7 +39,7 @@ default_start_msg = """
 
 ⭕️ നിങ്ങൾക്ക് സിനിമ വേണമെങ്കിൽ ആദ്യം ഗ്രൂപ്പിൽ ജോയിൻ ചെയുക ⭕️
 
-💘  𝙹𝙾𝙸𝙽  :  https://t.me/+1Pvi0kFnMu8zZjM9  💘.
+💘  𝙹𝙾𝙸𝙽  :  https://t.me/MMOTTMOVIES  💘.
 """
 START_MSG = environ.get('START_MSG', default_start_msg)
 START_IMG = environ.get("START_IMG", "") 
